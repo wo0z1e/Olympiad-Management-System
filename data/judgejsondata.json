@@ -1,0 +1,30 @@
+[
+    {
+        "fname": "",
+        "lname": "",
+        "email": "",
+        "password": "",
+        "DOB": "",
+        "pno": "",
+        "eno": "",
+        "gender": "Rather not say",
+        "org": "",
+        "proftitle": "",
+        "profexp": "",
+        "file": "..\/uploads\/.jpg"
+    },
+    {
+        "fname": "Eraz",
+        "lname": "dsa",
+        "email": "1@m.com",
+        "password": "123",
+        "DOB": "2023-10-31",
+        "pno": "1213123123",
+        "eno": "wqeqwe",
+        "gender": "Male",
+        "org": "wewe",
+        "proftitle": "wewe",
+        "profexp": "wqeqwe",
+        "file": "..\/uploads\/1@m.com.jpg"
+    }
+]
